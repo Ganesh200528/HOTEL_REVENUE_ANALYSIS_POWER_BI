@@ -173,6 +173,6 @@ Balancing revenue growth with occupancy optimization and cost efficiency is crit
 ## 👤 Author
 
  THATAVARTHI VENKATA NAGA GANESH
-Data Analyst | Revenue Analytics | Business Intelligence
+(Data Analyst | Revenue Analytics | Business Intelligence)
 
 
