@@ -112,6 +112,12 @@ You can view the complete presentation here:
 https://docs.google.com/presentation/d/1UrfbQ3VgcbAOG7wdOGU6x_B6pStAAaCT/edit?usp=sharing&ouid=103203076708650107606&rtpof=true&sd=true
 
 ---
+## 📊 Interactive Dashboard
+
+🔗 **View Power BI Dashboard:**  
+https://app.powerbi.com/groups/me/reports/579b9226-367d-48a8-944f-71636fc97392/479da87606d8858a242b?experience=power-bi
+
+---
 
 ## 📊 Business Insights
 
