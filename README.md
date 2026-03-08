@@ -172,9 +172,7 @@ Balancing revenue growth with occupancy optimization and cost efficiency is crit
 
 ## 👤 Author
 
-** THATAVARTHI VENKATA NAGA GANESH**  
+ THATAVARTHI VENKATA NAGA GANESH
 Data Analyst | Revenue Analytics | Business Intelligence
 
-## 📐 Key Performance Indicators (KPIs)
 
-### 1️⃣ Occupancy Rate
